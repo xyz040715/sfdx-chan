@@ -1,4 +1,4 @@
-git config --global user.name  "mme xyz"
+git config --global user.name  "mmexyz"
 git config --global user.email "hou@MMEXYZ.com"
 git init
 git branch -M main
